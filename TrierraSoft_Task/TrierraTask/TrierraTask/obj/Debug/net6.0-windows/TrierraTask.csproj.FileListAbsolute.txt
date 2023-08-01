@@ -1,0 +1,160 @@
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.exe
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.deps.json
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.runtimeconfig.json
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.dll
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.pdb
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.AssemblyReference.cache
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.Form1.resources
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.GenerateResource.cache
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.AssemblyInfoInputs.cache
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.AssemblyInfo.cs
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.CoreCompileInputs.cache
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.CopyComplete
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.dll
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\refint\TrierraTask.dll
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.pdb
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.genruntimeconfig.cache
+D:\Sources\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\ref\TrierraTask.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.exe
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.deps.json
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.runtimeconfig.json
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.pdb
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.AssemblyReference.cache
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.Form1.resources
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.GenerateResource.cache
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.AssemblyInfoInputs.cache
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.AssemblyInfo.cs
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.CoreCompileInputs.cache
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.CopyComplete
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\refint\TrierraTask.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.pdb
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.genruntimeconfig.cache
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\ref\TrierraTask.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\iiban\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.Form2.resources
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.exe
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.deps.json
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.runtimeconfig.json
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.dll
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.pdb
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.AssemblyReference.cache
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.Form1.resources
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.Form2.resources
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.GenerateResource.cache
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.AssemblyInfoInputs.cache
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.AssemblyInfo.cs
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.CoreCompileInputs.cache
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.CopyComplete
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.dll
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\refint\TrierraTask.dll
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.pdb
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.genruntimeconfig.cache
+C:\Users\L490\Desktop\TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\ref\TrierraTask.dll
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.exe
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.deps.json
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.runtimeconfig.json
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.dll
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.pdb
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.AssemblyReference.cache
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.Form1.resources
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.Form2.resources
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.GenerateResource.cache
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.AssemblyInfoInputs.cache
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.AssemblyInfo.cs
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.CoreCompileInputs.cache
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.CopyComplete
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.dll
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\refint\TrierraTask.dll
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.pdb
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.genruntimeconfig.cache
+C:\Users\iiban\Desktop\31.07.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\ref\TrierraTask.dll
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.exe
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.deps.json
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.runtimeconfig.json
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.dll
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\TrierraTask.pdb
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.AssemblyReference.cache
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.Form1.resources
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.Form2.resources
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.GenerateResource.cache
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.AssemblyInfoInputs.cache
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.AssemblyInfo.cs
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.CoreCompileInputs.cache
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.csproj.CopyComplete
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.dll
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\refint\TrierraTask.dll
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.pdb
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\TrierraTask.genruntimeconfig.cache
+C:\Users\L490\Desktop\01.08.23 New -TrierraSoft\01.08.23 New -TrierraSoft\TrierraSoft\TrierraTask\TrierraTask\obj\Debug\net6.0-windows\ref\TrierraTask.dll
